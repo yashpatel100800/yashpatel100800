@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashpatel100800&show_icons=true&theme=radical" alt="Yash Patel's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel100800&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
